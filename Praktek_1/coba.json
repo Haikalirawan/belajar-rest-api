@@ -1,0 +1,32 @@
+[
+    {
+    "nama" : "Haikal irawan",
+    "umur" : 20,
+    "nrp" : "202410103017",
+    "lulus" : false,
+    "hobi" : 
+        ["olahraga", 
+        "gaming", 
+        "monitoring"
+        ],
+    "DPA" : {
+        "DPA1" : "M. Arief Hidayat",
+        "DPA2" : "Yudha Afillah"
+        }
+    },
+    {
+        "nama" : "Fasal Alif",
+        "umur" : 19,
+        "nrp" : "2410103017",
+        "lulus" : false,
+        "hobi" : 
+            ["berenang", 
+            "basket", 
+            "bulu tangkis"
+            ],
+        "DPA" : {
+            "DPA1" : "M. Arief Hidayat",
+            "DPA2" : "Yudha Afillah"
+            }
+        }
+]
