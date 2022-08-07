@@ -1,0 +1,214 @@
+{
+    "menu": [
+        {
+            "kategori" : "sarapan-pagi",
+            "nama" : "Egg and Cheese Muffin",
+            "deskripsi" : "Perpaduan scrambled egg dan keju gurih dalam setangkup English Muffin hangat. Tersedia dari jam 5-11 pagi",
+            "harga" : 75000,
+            "gambar" : "1.png"
+        },
+        {
+            "kategori" : "sarapan-pagi",
+            "nama" : "Chicken Muffin",
+            "deskripsi" : "Perpaduan scrambled egg dan keju gurih dalam setangkup English Muffin hangat. Tersedia dari jam 5-11 pagi",
+            "harga" : 75000,
+            "gambar" : "2.png"
+        },
+        {
+            "kategori" : "sarapan-pagi",
+            "nama" : "Sausage McMuffin",
+            "deskripsi" : "English muffin disajikan dengan sosis ayam yang gurih dan selembar keju bernutrisi. Tersedia dari jam 5-11 pagi",
+            "harga" : 75000,
+            "gambar" : "3.png"
+        },
+        {
+            "kategori" : "sarapan-pagi",
+            "nama" : "Egg McMuffin",
+            "deskripsi" : "English muffin hangat yang disajikan dengan daging ayam asap, telur, dan keju bernutrisi. Tersedia dari jam 5-11 pagi",
+            "harga" : 75000,
+            "gambar" : "4.png"
+        },
+        {
+            "kategori" : "sarapan-pagi",
+            "nama" : "Chicken Muffin with Egg",
+            "deskripsi" : "Setangkup English muffin hangat dilapisi dengan saus mayonais, daging ayam olahan yang digoreng sempurna, telur, dan keju. Tersedia dari jam 5-11 pagi",
+            "harga" : 75000,
+            "gambar" : "5.png"
+        },
+        {
+            "kategori" : "daging-sapi",
+            "nama" : "Beef Onion Stew & Egg Burger",
+            "deskripsi" : "Burger dengan 100% daging sapi asli di-impor dari Australia yang disajikan dengan saus gurih khas Eropa lengkap dengan keju, bawang bombai dan telur urak arik diapit roti lembut yang bertabur wijen",
+            "harga" : 75000,
+            "gambar" : "6.png"
+        },
+        {
+            "kategori" : "daging-sapi",
+            "nama" : "Double Beef Onion Stew Burger",
+            "deskripsi" : "Burger dengan 100% dua lapis daging sapi asli di-impor dari Australia yang disajikan dengan saus gurih khas Eropa lengkap dengan keju dan bawang bombai diapit roti lembut yang bertabur wijen",
+            "harga" : 75000,
+            "gambar" : "7.png"
+        },
+        {
+            "kategori" : "daging-sapi",
+            "nama" : "Beef Spicy Korean Burger with Egg",
+            "deskripsi" : "Burger dengan 100% daging sapi asli di-impor dari Australia yang disajikan dengan saus pedas khas Korea disajikan dengan selada, rumput laut dan telur mata sapi diapit roti oranye yang lembut bertabur wijen.",
+            "harga" : 75000,
+            "gambar" : "8.png"
+        },
+        {
+            "kategori" : "daging-sapi",
+            "nama" : "Big Mac",
+            "deskripsi" : "Burger Ikonik McDonald's. Dua lapis daging sapi gurih disajikan dengan saus spesial, selada segar, keju, acar timun, bawang, diapit roti bertabur wijen",
+            "harga" : 75000,
+            "gambar" : "9.png"
+        },
+        {
+            "kategori" : "daging-sapi",
+            "nama" : "Triple Burger with Cheese",
+            "deskripsi" : "Perpaduan roti burger dengan 3 Lapisan daging gurih dan 2 lapisan keju, saus tomat, acar, potongan bawang dan mustard",
+            "harga" : 75000,
+            "gambar" : "10.png"
+        },
+        {
+            "kategori" : "daging-sapi",
+            "nama" : "Double Cheese Burger",
+            "deskripsi" : "Perpaduan roti burger dengan 2 Lapisan daging gurih dan 2 lapisan keju disajikan dengan saus tomat, acar, potongan bawang dan mustard",
+            "harga" : 75000,
+            "gambar" : "11.png"
+        },
+        {
+            "kategori" : "ayam",
+            "nama" : "McSpicy Korean Burger",
+            "deskripsi" : "Burger McSpicy yang pedas dan disajikan dengan saus pedas khas Korea disajikan dengan selada, rumput laut diapit roti oranye yang lembut bertabur wijen",
+            "harga" : 75000,
+            "gambar" : "12.png"
+        },
+        {
+            "kategori" : "ayam",
+            "nama" : "PaNas HeBat Smoky BBQ Wings McD",
+            "deskripsi" : "Menu paket dengan harga ekonomis terbaru yang terdiri dari 2pcs potongan sayap ayam (Wingette & Drumette) disajikan dengan half scrambled egg dan nasi regular dan Fruit Tea Lemon Regular",
+            "harga" : 75000,
+            "gambar" : "13.png"
+        },
+        {
+            "kategori" : "ayam",
+            "nama" : "Ayam Krispy McDonald's",
+            "deskripsi" : "Ayam goreng khas McDonald's , dengan kulit yang renyah dan daging ayam yang lembut dan gurih. Tersedia dalam pilihan A la Carte, PaNas 1, PaNas 2, Panas 2 with Fries, PaMer 5, PaMer 7",
+            "harga" : 75000,
+            "gambar" : "14.png"
+        },
+        {
+            "kategori" : "ayam",
+            "nama" : "PaNas 1",
+            "deskripsi" : "Ayam Goreng khas McDonald's dengan nasi hangat dan minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy",
+            "harga" : 75000,
+            "gambar" : "15.png"
+        },
+        {
+            "kategori" : "ayam",
+            "nama" : "PaNas 2 with Fries",
+            "deskripsi" : "2 pcs Ayam Goreng khas McDonald's dengan kentang goreng dan minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy",
+            "harga" : 75000,
+            "gambar" : "16.png"
+        },
+        {
+            "kategori" : "ayam",
+            "nama" : "PaNas 2 with Rice",
+            "deskripsi" : "2 pcs Ayam Goreng khas McDonald's dengan nasi hangat dan minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy",
+            "harga" : 75000,
+            "gambar" : "17.png"
+        },
+        {
+            "kategori" : "ayam",
+            "nama" : "PaNas Spesial",
+            "deskripsi" : "Ayam Goreng khas McDonald's dengan nasi hangat dan tambahan scrambled egg serta minuman FruitTea lemon yang menyegarkan. Tersedia dalam pilihan Ayam Krispy atau Spicy",
+            "harga" : 75000,
+            "gambar" : "18.png"
+        },
+        {
+            "kategori" : "ikan",
+            "nama" : "Fish Snack Wrap",
+            "deskripsi" : "Daging ikan digoreng renyah dengan selada segar, keju istimewa dan saus spesial dalam balutan tortilla yang lembut",
+            "harga" : 75000,
+            "gambar" : "19.png"
+        },
+        {
+            "kategori" : "ikan",
+            "nama" : "Fish Fillet Burger",
+            "deskripsi" : "Daging ikan pilihan, dengan saus tartar dan keju istimewa dalam setangkup roti lembut kukus",
+            "harga" : 75000,
+            "gambar" : "20.png"
+        },
+        {
+            "kategori" : "ikan",
+            "nama" : "Honey Garlic Fish Rice McD",
+            "deskripsi" : "Daging ikan pilihan, dengan saus tartar dan keju istimewa dalam setangkup roti lembut kukus",
+            "harga" : 75000,
+            "gambar" : "21.png"
+        },
+        {
+            "kategori" : "minuman",
+            "nama" : "Ginger Ale Fizz",
+            "deskripsi" : "Minuman bersoda dengan rasa Jahe manis yang segar",
+            "harga" : 75000,
+            "gambar" : "22.png"
+        },
+        {
+            "kategori" : "minuman",
+            "nama" : "McFreeze Blueberry",
+            "deskripsi" : "Minuman berkarbonasi berupa bulir es halus dengan rasa Fanta Blueberry",
+            "harga" : 75000,
+            "gambar" : "23.png"
+        },
+        {
+            "kategori" : "minuman",
+            "nama" : "Creamy McFreeze Blueberry",
+            "deskripsi" : "Minuman berkarbonasi berupa bulir es halus dengan rasa Fanta Blueberry ditambah es krim Vanilla McDonald's",
+            "harga" : 75000,
+            "gambar" : "24.png"
+        },
+        {
+            "kategori" : "minuman",
+            "nama" : "Iced Coffee Sea Salt Caramel with Jelly",
+            "deskripsi" : "Perpaduan Iced Coffee McD dengan citarasa karamel yang manis dan gurih bersama Jelly",
+            "harga" : 75000,
+            "gambar" : "25.png"
+        },
+        {
+            "kategori" : "minuman",
+            "nama" : "Iced Coffee Sea Salt Caramel with Float",
+            "deskripsi" : "Perpaduan Iced Coffee McD dengan citarasa karamel yang manis dan gurih bersama Ice Cream Vanilla",
+            "harga" : 75000,
+            "gambar" : "26.png"
+        },
+        {
+            "kategori" : "makanan-penutup",
+            "nama" : "Apple A La Mode Chocolate",
+            "deskripsi" : "Perpaduan Vanilla soft ice cream McD dan Apple Pie yang renyah dengan saus Cokelat",
+            "harga" : 75000,
+            "gambar" : "27.png"
+        },
+        {
+            "kategori" : "makanan-penutup",
+            "nama" : "Apple A La Mode Strawberry",
+            "deskripsi" : "Perpaduan Vanilla soft ice cream McD dan Apple Pie yang renyah dengan saus Strawberry",
+            "harga" : 75000,
+            "gambar" : "28.png"
+        },
+        {
+            "kategori" : "makanan-penutup",
+            "nama" : "Bubble Gum McFlurry with Sweet Bites",
+            "deskripsi" : "Es Krim Vanilla McD dengan citarasa permen karet dengan topping Sweet Bites",
+            "harga" : 75000,
+            "gambar" : "29.png"
+        },
+        {
+            "kategori" : "makanan-penutup",
+            "nama" : "White Chocolate Strawberry Pastry Pie",
+            "deskripsi" : "Pie dengan lapisan pastry renyah berisi coklat putih dan potongan strawberry.",
+            "harga" : 75000,
+            "gambar" : "30.png"
+        }
+    ]
+}
